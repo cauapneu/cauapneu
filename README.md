@@ -1,6 +1,8 @@
 ### Opa, eu sou o Cauã Pereira 😸
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-pereira-476b4927a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauaneres120@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauapera/)
+
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauapneu&show_icons=true&theme=dark)
 
