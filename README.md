@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauapera/)
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauapneu&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauapneu&show_icons=true&theme=dracula)
 
 <div style ="display: incline_block"><br/>
     <img align="center" alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
